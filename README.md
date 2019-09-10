@@ -1,2 +1,2 @@
-# lazyjun.github.io
+# lazyjun portfolio
 My portfolio
